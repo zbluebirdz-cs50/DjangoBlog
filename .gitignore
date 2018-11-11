@@ -5,6 +5,6 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
-github-01.bat
 run-site.bat
+github-01.bat
 /.vscode
