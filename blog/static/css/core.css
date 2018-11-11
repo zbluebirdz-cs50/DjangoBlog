@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.25em;
+    margin: 0;
+}
+
+header,
+section {
+    padding: 1em;
+}
+footer,
+nav {
+    padding: 0.5em 1em;
+}
+
+header,
+footer {
+    background:#A8A7A6;
+}
+nav {
+    background:#B8B7B6;
+}
+section {
+    background: #C8c7c6;
+}
+
+
+nav > div {
+    font-size: 0.75em ;
+}
+
+header h1 {
+    margin: 0 ;
+}
+
+footer > div {
+    font-size: 0.65em;
+}
+

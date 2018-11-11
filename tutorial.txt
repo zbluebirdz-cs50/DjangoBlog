@@ -1,1 +1,11 @@
+Tutorial about creating a blog in Django:
 https://tutorial.djangogirls.org/en/django_start_project/
+
+Where the files are in GitHub:
+https://github.com/zblackbirdz/DjangoBlog
+
+Who is hosting the site:
+https://www.pythonanywhere.com
+
+URL of the blog:
+https://zblackbirdz.pythonanywhere.com
