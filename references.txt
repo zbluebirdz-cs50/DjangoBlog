@@ -9,3 +9,9 @@ https://www.pythonanywhere.com
 
 URL of the blog:
 https://zblackbirdz.pythonanywhere.com
+
+Colour picker:
+https://htmlcolorcodes.com/color-picker/
+
+Fonts:
+https://fonts.google.com

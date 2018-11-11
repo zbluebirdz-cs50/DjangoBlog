@@ -1,0 +1,72 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    margin: 0;
+}
+
+h1 { font-size: 1.76em;}
+h2 { font-size: 1.50em;}
+h3 { font-size: 1.35em;}
+h4 { font-size: 1.25em;}
+h5 { font-size: 1.17em;}
+h6 { font-size: 1.05em;}
+
+a,
+a:link {
+    color: rgb(161, 81, 0 );
+}
+small {
+    font-size: 0.67em;
+}
+
+.page-header {
+    margin-top:20px;
+}
+nav {
+    padding: 0.75em 1em 0.5em 1em;
+}
+
+header,
+footer {
+    color:rgb(161,0,0);
+}
+/* rgb(161, 87, 12) */
+
+nav > div {
+    font-size: 0.75em ;
+}
+
+header h1 {
+    margin: 0 ;
+}
+
+footer > div {
+    font-size: 0.65em;
+}
+
+.post {
+    border-bottom: 1px dotted #989898;
+    margin-bottom: 1em;
+}
+.post .title {
+    margin: 0 0 0.25em 0 ;
+    font-weight: bold;
+}
+.post p {
+    margin-top:0;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}

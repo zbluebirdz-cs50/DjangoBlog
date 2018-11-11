@@ -7,4 +7,5 @@ db.sqlite3
 .DS_Store
 run-site.bat
 github-01.bat
+github-push.bat
 /.vscode
