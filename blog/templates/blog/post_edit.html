@@ -1,0 +1,16 @@
+{% extends 'blog/base.html' %}
+
+{% block content %}
+{% if user.is_authenticated %}
+<div class="post">
+    <h2 class="title">New post:</h2>
+        <form method="POST" class="post-form">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit" class="save btn btn-default">Save</button>
+        </form>
+</div>
+{% else %}
+Hmmmm ... 
+{% endif %}
+{% endblock %}

@@ -16,11 +16,14 @@
 <nav>
     <div class="container">
         <a href="/">Home</a>
+        {% if user.is_authenticated %}
+         | <a href="{% url 'post_new' %}">New post</a>
+        {% endif %}
     </div>
 </nav>
 <header class="page-header">
     <div class="container">
-    <h1>Hello world!</h1>
+    <h1>A blog using Django</h1>
     </div>
 </header>
 
